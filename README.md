@@ -4,3 +4,6 @@
 
 ## 🛠️ Things I code with
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=go,graphql,stripe,ts,nestjs,react,nextjs,terraform,gcp,aws,cloudflare,docker&theme=light)
+
+## Contribution
+![](./metrics.plugin.isocalendar.fullyear.svg)
