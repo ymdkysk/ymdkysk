@@ -4,7 +4,7 @@
 - When I'm not coding, you'll find me fishing or at the stadium watching football.
 
 ## Things I code with
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=aws,gcp,cloudflare,terraform,go,graphql,stripe,ts,nestjs,react,nextjs,docker&theme=light)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=aws,gcp,cloudflare,terraform,go,graphql,stripe,ts,nestjs,react,nextjs,docker,goland,webstorm&theme=light)
 
 ## AWS Certifications
 <img src="./aws-badges.png" width="200">
